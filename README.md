@@ -1,4 +1,4 @@
-﻿# 👾 Hi, I'm Ahmet Zerin
+﻿# 👾 Ahmet Zerin
 
 🎮 **Mobile Game Developer | Unity |**
 
