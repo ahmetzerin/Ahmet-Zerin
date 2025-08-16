@@ -1,6 +1,6 @@
 ﻿# 👋 Hi, I'm Ahmet Zerin
 
-🎮 **Mobile Game Developer | Unity | Firebase | Photon PUN**
+🎮 **Mobile Game Developer | Unity |**
 
 I love building interactive and engaging mobile games. Passionate about combining creativity 
 with technology to design scalable gameplay systems and intuitive player experiences.  
