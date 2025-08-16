@@ -1,20 +1,21 @@
-# Ahmet Zerin
-**"Game Developer | Unity | C# | Mobile Games"**
+﻿# 👋 Hi, I'm Ahmet Zerin
 
+🎮 **Mobile Game Developer | Unity | Firebase | Photon PUN**
 
-Unity Game Developer with formal training in game development and hands-on experience creating interactive mobile games.
-I combine creativity with technical expertise to design engaging gameplay, scalable systems, and intuitive player experiences.
-Quick to learn and highly adaptable, I bring strong problem-solving skills and a passion for delivering innovative gaming solutions.
+I love building interactive and engaging mobile games. Passionate about combining creativity 
+with technology to design scalable gameplay systems and intuitive player experiences.  
+
+📫 Reach me at:  
+- ✉️ [ahmet.zerin1@gmail.com](mailto:ahmet.zerin1@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ahmet-zerin-2b0183224/)   
 
 ---
 
-### Languages & Technologies
+## 🛠️ Languages and Tools
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
+![Photon](https://img.shields.io/badge/Photon-003366?style=for-the-badge&logo=photon)
+![AdMob](https://img.shields.io/badge/AdMob-EA4335?style=for-the-badge&logo=google&logoColor=white)
 
-<img align = "left" alt = "Unity" width = "30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" style ="padding-right : 10px;" />
-<img align = "left" alt = "C#" width = "30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" style ="padding-right : 10px;"/>
-<img align = "left" alt = "C++" width = "30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style ="padding-right : 10px;"/>
-<img align = "left" alt = "Firebase" width = "30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" style ="padding-right : 10px;"/>
-<img align = "left" alt = "Photon" width = "30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photonengine/photonengine-original.svg" style ="padding-right : 10px;"/>
-<img align = "left" alt = "Java Script" width = "30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style ="padding-right : 10px;"/>
-<img align = "left" alt = "Flutter" width = "30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" style ="padding-right : 10px;"/>
-<br/>
+---
